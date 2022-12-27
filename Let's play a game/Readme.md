@@ -1,7 +1,9 @@
 		Writeup for Let’s play a game
     
-Description : Maybe you can buy some points to get the flag….
+Description : Maybe you can buy some points to get the flag…
+
 Given file : 575TY6.mp3
+
 From the audio file we can hear a conversation between two person. We can extract few information from the audio like Sergeant Garrick, John McTavish, Simon Riley, Task Force 141. Searching for the google we can find this.
 
 ![image](https://user-images.githubusercontent.com/111695465/209707652-de18f7b2-37ee-4764-be33-d1f7e5cf0d82.png)
