@@ -10,6 +10,9 @@ After installing pydumpck, entering the command as "pydumpck location/of/the/exe
 
 ![Screenshot (115)](https://user-images.githubusercontent.com/111695465/210232531-e657c11c-a887-4f3d-abef-8258e02d996a.png)
 
+This creates a folder with various files one such file is the examine.pyc.cdc. We can see the source code of the exe file here.
+
+Examining the complete code we can see a function named solution which is not at all related to the game and we can see the function makes some conversion and stores the result in the string 'out'
 
 ![Screenshot (116)](https://user-images.githubusercontent.com/111695465/210232545-a049cdb6-632a-4f92-a5e4-693e841ed320.png)
 
