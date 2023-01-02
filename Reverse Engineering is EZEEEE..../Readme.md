@@ -14,4 +14,16 @@ After installing pydumpck, entering the command as "pydumpck location/of/the/exe
 
 ![Screenshot (115)](https://user-images.githubusercontent.com/111695465/210228689-fdddbe1f-5f11-422f-bea0-b5fa81e40353.png)
 
-This creates a folder with various files one such file is the examine.
+This creates a folder with various files one such file is the examine.pyc.cdc.
+We can see the source code of the exe file here.
+
+Examining the complete code we can see a function named solution which is not at all related to the game and we can see the function makes some conversion and stores the result in the string 'out'
+
+
+![Screenshot (116)](https://user-images.githubusercontent.com/111695465/210231807-cc65dbc7-d8bb-4321-8b80-5801715681e5.png)
+
+Copying the code into another python file and printing the value of out gives the flag
+
+![Screenshot (118)](https://user-images.githubusercontent.com/111695465/210232051-b961ac88-bc7a-4656-b33d-f6462dcb560a.png)
+
+Flag is : vishwaCTF{!5_pyth0n_th3_b35t_l4ngu4g3????}
