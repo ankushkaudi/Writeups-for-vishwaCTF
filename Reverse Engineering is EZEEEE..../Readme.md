@@ -24,6 +24,6 @@ Examining the complete code we can see a function named solution which is not at
 
 Copying the code into another python file and printing the value of out gives the flag
 
-![Screenshot (118)](https://user-images.githubusercontent.com/111695465/210232051-b961ac88-bc7a-4656-b33d-f6462dcb560a.png)
+![Screenshot (118)](https://user-images.githubusercontent.com/111695465/210232297-81c01746-1183-41d0-937b-4dc700a2f29b.png)
 
 Flag is : vishwaCTF{!5_pyth0n_th3_b35t_l4ngu4g3????}
