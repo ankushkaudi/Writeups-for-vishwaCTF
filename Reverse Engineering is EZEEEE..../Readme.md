@@ -1,6 +1,6 @@
 
 
-We have been provided with a windows executable file named examine.exe. Executing it, starts a snake game as below
+We have been provided with a windows executable file named examine.exe. Executing it, starts a snake game as shown below
 
 ![Screenshot (114)](https://user-images.githubusercontent.com/111695465/210226409-46e5b165-ab25-454d-8e2c-c0283b33a93d.png)
 
