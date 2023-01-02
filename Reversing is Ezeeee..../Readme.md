@@ -16,6 +16,7 @@ Examining the complete code we can see a function named solution which is not at
 
 ![Screenshot (116)](https://user-images.githubusercontent.com/111695465/210232545-a049cdb6-632a-4f92-a5e4-693e841ed320.png)
 
+Copying the code into another python file and printing the value of out gives the flag
 
 ![Screenshot (118)](https://user-images.githubusercontent.com/111695465/210232566-33d87adc-20c8-489d-98c7-f2b8e602a162.png)
 
