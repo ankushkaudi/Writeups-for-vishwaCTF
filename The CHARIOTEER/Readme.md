@@ -10,25 +10,25 @@ Discord server link : https://discord.gg/2XxhpNjZ
 *8 questions to be answered to the bot. All the answers to be answered in lowercase letters.
 
 Questions : 
-1) He was born in a dark night in a prison from where he was safely taken to a distant place. Give me the location of the prison.
-Ans format : city
-Ans : mathura
+1) He was born in a dark night in a prison from where he was safely taken to a distant place. Give me the location of the prison.  
+Ans format : city  
+Ans : mathura  
 Explanation : The charioteer mention here is Lord Krishna, who was born in a prison in Mathura which is currently in the state of Uttar Pradesh.
 
-2) He was raised in the place where he was rescued. After few years, it was time for him to go to school for education. So, he joined a school. Who was his teacher and where is the school located?")
-Ans format : nameoftheteacher_citywhereschoolislocated
-Ans : maharshisandipani_ujjain
-Explanation : Lord Krishna joined Maharshi Sandipani’s ashram to receive his education which is said to be located in the city currently known as Ujjain which is in the state of Madhya Pradesh.
+2) He was raised in the place where he was rescued. After few years, it was time for him to go to school for education. So, he joined a school. Who was his teacher and where is the school located?  
+Ans format : nameoftheteacher_citywhereschoolislocated  
+Ans : maharshisandipani_ujjain  
+Explanation : Lord Krishna joined Maharshi Sandipani’s ashram to receive his education which is said to be located in the city currently known as Ujjain which is in the state of Madhya Pradesh.  
 
-3) After his education, one fine day someone visited him. He presented a gift which was very powerful. It is said that, the receiver and the presenter, both are the same. What was the gift and who gifted it?
-Ans format : thegift_thepresenter
-Ans : sudarshanchakra_lordparashurama
-Explanation : Lord Parashurama visited Lord Krishna and gifted him Sudarshan chakra. Lord Parashurama and Lord Krishna are the incarnation of Lord Krishna, so it can be said that both of them are the same.
+3) After his education, one fine day someone visited him. He presented a gift which was very powerful. It is said that, the receiver and the presenter, both are the same. What was the gift and who gifted it?  
+Ans format : thegift_thepresenter  
+Ans : sudarshanchakra_lordparashurama  
+Explanation : Lord Parashurama visited Lord Krishna and gifted him Sudarshan chakra. Lord Parashurama and Lord Krishna are the incarnation of Lord Krishna, so it can be said that both of them are the same.  
 
-4) After education, he wanted to build a new kingdom for his people. So, he contacted one of the finest architect of that time to build it on the sea shore. Give me the name of the architect and where is it located?")
-Ans format : nameofthearchitect_citywhereitislocated
-Ans : vishwakarma_dwarka
-Explanation : The city of Dwarka, which is the kingdom of Lord Krishna, was built by Vishwakarma on shore of (now) Arabian sea which is said to be  submerged under the water in present time.
+4) After education, he wanted to build a new kingdom for his people. So, he contacted one of the finest architect of that time to build it on the sea shore. Give me the name of the architect and where is it located?  
+Ans format : nameofthearchitect_citywhereitislocated  
+Ans : vishwakarma_dwarka  
+Explanation : The city of Dwarka, which is the kingdom of Lord Krishna, was built by Vishwakarma on shore of (now) Arabian sea which is said to be  submerged under the water in present time.  
 
 5) His sister was going to marry an arrogant prince which he didn't like but could not oppose it as the prince was student of his brother. But destiny had different plans and finally his sister married his best friend. Who was the bride and who was the groom?
 Ans format : nameofthebride_nameofthegroom
