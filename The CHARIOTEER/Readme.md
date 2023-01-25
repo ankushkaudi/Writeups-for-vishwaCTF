@@ -38,7 +38,7 @@ Explanation : Subhadra was younger sister of Lord Krishna and it was decided tha
 
 6) There was a magical place in the story where THE CHARIOTEER's friend lived with his brothers. Before it was a magical place, it was a barren land under the control of a serpent king. His friend defeated the serpent king and made way to construct their home. Give me the name of the persons who made that place and the serpent king  
 Ans. format : nameofserpentking_architectwhobuiltthestructure_theguywhomadeitmagical  
-Ans : vishwakarma_mayasur  
+Ans : takshaka_vishwakarma_mayasur  
 Explanation : The magical place was called Indraprastha. Before a complete magical city, it was called Khandavprastha which was under the control of Serpent king Takshaka. Arjun defeated Takshaka and cleared the place and with the order of Lord Indra, Vishwakarma built the structure of the city and Mayasur made it magical using his magical powers.  
 
 
