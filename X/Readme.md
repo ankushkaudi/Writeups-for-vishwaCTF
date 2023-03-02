@@ -17,7 +17,7 @@ Analyzing the main function, we can see the order of function calls
 ![image](https://user-images.githubusercontent.com/111695465/222479180-36487f52-9843-429e-9838-a8ed0e5748f6.png)
 
 Checking the functions in the order of their call, we can extract the broken strings. Concatenating these will give the final string which is 
-	e4lz3e4lauz_a5_ugggd
+	e4lz3e4lauz_a5_ugggd.
 This seems to be a Caesar Cipher, decrypting which gives the flag which is
 	m4th3m4tics_i5_coool
 
