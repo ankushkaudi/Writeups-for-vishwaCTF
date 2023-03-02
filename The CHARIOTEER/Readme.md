@@ -53,4 +53,4 @@ Ans : shrimadbhagwadgeeta_jyotisarkurukshetra
 Explanation : A war was declared between the Kauravas and the Pandavas. Arjun was not ready to fight with his brothers, so Lord Krishna took him to the middle of the battlefield and delivered Shrimad Bhagwad Geeta which is called as Jyotisar located in Kurukshetra.  
 
 After all the correct answers the flag will be displayed.  
-Flag : vishwaCTF{mattah_parataram_nanyat_kinchid_asti_dhananjaya mayi_sarvam_idam_protam_sutre_manigana_iva}  
+Flag : vishwaCTF{mattah_parataram_nanyat_kinchid_asti_dhananjaya mayi_sarvam_idam_protam_sutre_manigana_iva}   
