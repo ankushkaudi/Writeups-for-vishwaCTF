@@ -26,5 +26,5 @@ For grey code 1110, the binary will be 1011. Trying out this in the circuit give
 
 ![Screenshot (122)](https://user-images.githubusercontent.com/111695465/210268136-a644cb04-aaca-4865-a632-13b9214efba4.png)
 
-Flag : vishwaCTF{s!mul4t3_b3f0r3_!mpl3m3nt4t!0n}
+Flag : vishwaCTF{s!mul4t3_b3f0r3_!mpl3m3nt4t!0n} 
 
