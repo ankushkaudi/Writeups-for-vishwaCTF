@@ -1,6 +1,6 @@
 		Writeup for Let’s play a game
     
-Description : Maybe you can buy some points to get the flag…
+Description : Maybe you can buy some points to get the flag….      
 Submit the flag as VishwaMini{flag}
 
 Given file : 575TY6.mp3
@@ -25,4 +25,4 @@ A player ID is 6 character ID and we can see the name of the audio file is given
 
 ![image](https://user-images.githubusercontent.com/111695465/209707833-c04c3d4a-47c8-432b-b54f-68fee0404793.png)
 
-We can see the nickname is of the format of the flag. The flag is vishwaCTF{C4P_J0HN_PRIC3}. 
+We can see the nickname is of the format of the flag. The flag is VishwaMini{C4P_J0HN_PRIC3}. 
