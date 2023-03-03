@@ -14,7 +14,7 @@ Changing the extension of the image file provided from “justanimage.jpg” to 
 
 ![Screenshot_2023-01-22_13-49-21](https://user-images.githubusercontent.com/111695465/213907503-51a292d4-da10-4cc5-a3ea-44e3ef460e49.png)
 
-From the first we can see “created by pyAesCrypt”, we can assume this file has been encrypted with pyAesCrypt of python which is an AES encryption module.
+From the first line we can see “created by pyAesCrypt”, we can assume this file has been encrypted with pyAesCrypt of python which is an AES encryption module.
 We can encrypt and decrypt with the in-built functions of this module.
 
 ![image](https://user-images.githubusercontent.com/111695465/213907524-e58dbe9e-bdab-49df-932b-4d9c7721eac3.png)
