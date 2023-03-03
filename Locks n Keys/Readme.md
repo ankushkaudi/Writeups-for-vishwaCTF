@@ -8,7 +8,7 @@ One such tool is John The Ripper. Cracking the .zip using John gives the passwor
 After extracting, 8 image files appears named zero,one,….,seven. Renaming the files with numbers instead of text as 0,1,…,7 we can see combining it gives some message. There are 3 messages we can extract from it as
 1.	256*1024
 2.	itisjustastring
-3.	Do you know what is the extension of an encoded file????
+3.	Do you know what is the extension of an encoded file????    
 From the third hint we can try to search for the extension of an encoded file which comes out to be an .enc file.
 Changing the extension of the image file provided from “justanimage.jpg” to “justanimage.enc” and opening the file in a texteditor gives the following information.
 
