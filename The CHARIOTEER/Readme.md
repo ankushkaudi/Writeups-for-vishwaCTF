@@ -5,7 +5,7 @@ The flag is with the bot.
 Just answer few questions based on the life of the Charioteer and the bot might give you the flag.
 Give a "start" in DM to the bot and he'll respond.
 
-Discord server link : https://discord.gg/2XxhpNjZ
+Discord server link : https://discord.gg/rG2qmxrU7j
 
 *8 questions to be answered to the bot. All the answers to be answered in lowercase letters.
 
@@ -53,4 +53,4 @@ Ans : shrimadbhagwadgeeta_jyotisarkurukshetra
 Explanation : A war was declared between the Kauravas and the Pandavas. Arjun was not ready to fight with his brothers, so Lord Krishna took him to the middle of the battlefield and delivered Shrimad Bhagwad Geeta which is called as Jyotisar located in Kurukshetra.  
 
 After all the correct answers the flag will be displayed.  
-Flag : vishwaCTF{mattah_parataram_nanyat_kinchid_asti_dhananjaya mayi_sarvam_idam_protam_sutre_manigana_iva}   
+Flag : VishwaMini{mattah_parataram_nanyat_kinchid_asti_dhananjaya mayi_sarvam_idam_protam_sutre_manigana_iva}   
