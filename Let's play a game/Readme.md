@@ -1,6 +1,7 @@
 		Writeup for Let’s play a game
     
 Description : Maybe you can buy some points to get the flag…
+Submit the flag as VishwaMini{flag}
 
 Given file : 575TY6.mp3
 
