@@ -1,17 +1,16 @@
 Writeup for Locks n Keys
 
-Given files : johny.zip and justanimage.jpg
+Given files : Johnny.zip
 
-We have been given with two file a .zip and an image file. The image file cannot be opened and gives an error or unsupported format.
+We have been given a .zip file.
 Extracting the .zip file asks for the password which is not given. We can think of cracking the .zip using some tools.
 One such tool is John The Ripper. Cracking the .zip using John gives the password as “thunderbird”.
-After extracting, 8 image files appears named zero,one,….,seven. Renaming the files with numbers instead of text as 0,1,…,7 we can see combining it gives some message. There are 3 messages we can extract from it as
+After extracting, 11 image files named zero,one,….,nine, justanimage and a text file. Renaming the files with numbers instead of text as 0,1,…,9 we can see combining it gives some message. There are 3 messages we can extract from it as
 1.	256*1024
 2.	itisjustastring
 3.	Do you know what is the extension of an encoded file????  
 4. 41 45 53 02  
-From the third hint we can try to search for the extension of an encoded file which comes out to be an .enc file.
-But changing the extemsion from .png to .enc doesn't seem to work. We can see 41 45 53 02. Opening justanimage in hexeditor and editing the first four character will give the actual encoded file
+The text file says "Sometimes, what you see isn't what you get." Using file command on justanimage.png doesn't give much about info abou png file. From the text file, we can assume the given image might not be a png file but something different. From the line 4 we can use the data to change the first four hex values of the png file in hexeditior and renaming it to the file with extension .enc (as line 3 says about an encoded file)
 
 ![Screenshot_2023-01-22_13-49-21](https://user-images.githubusercontent.com/111695465/213907503-51a292d4-da10-4cc5-a3ea-44e3ef460e49.png)
 
