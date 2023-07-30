@@ -5,7 +5,7 @@ The flag is with the bot.
 Just answer few questions based on the life of the Charioteer and the bot might give you the flag.
 Give a "start" in DM to the bot and he'll respond.
 
-Discord server link : https://discord.gg/rG2qmxrU7j
+Discord server link : https://discord.gg/rG2qmxrU7j       //The link is expired now. This is just for reference
 
 *8 questions to be answered to the bot. All the answers to be answered in lowercase letters.
 
